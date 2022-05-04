@@ -1,0 +1,14 @@
+.hide {
+  cursor: pointer;
+}
+#password {
+  border: none;
+  outline: none;
+  font-size: 16px;
+}
+.input {
+  border: 1px solid #000000;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 5px;
+}
